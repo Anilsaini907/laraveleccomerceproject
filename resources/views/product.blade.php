@@ -56,6 +56,7 @@
 </div>
 <!--carttable-->
 <div class="carttable">
+    <h1>Add to cart</h1>
 <table style="width:100%">
   <tr>
   <th>Product ID</th>
